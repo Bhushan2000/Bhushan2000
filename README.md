@@ -1,13 +1,13 @@
 # Hi there, I'm [Bhushan]! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x400.png?text=Your+Custom+Banner+Here)
+![Profile Banner](https://github.com/Bhushan2000/Covid19Tracker/assets/157300484/3c5855db-e4be-4a48-93ed-0683f5ea05cd)
 
 ## 🚀 About Me
 
 I'm a passionate software engineer with a love for developing innovative programs. I've got a keen interest in open source and a drive to continuously learn and grow in the tech space. Below are some details about my professional journey and interests.
 
 - 💬 Ask me about **Software Development, Open Source, Tech Careers**
-- 📫 How to reach me: **[your.email@example.com](mailto:waghdharebhushan71@gmail.com)**
+- 📫 How to reach me: **[waghdharebhushan71@gmail.com](mailto:waghdharebhushan71@gmail.com)**
 - 😄 Pronouns: **He/Him** or **They/Them**
 - ⚡ Fun fact: **[Always curious to Learn new things]**
 
@@ -25,16 +25,8 @@ I'm a passionate software engineer with a love for developing innovative program
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-<!-- ## 📚 Latest Blog Posts
-
- BLOG-POST-LIST:START 
-- [Post Title](https://yourblog.com/post-title)
-- [Another Post Title](https://yourblog.com/another-post-title)
-- [Yet Another Post Title](https://yourblog.com/yet-another-post-title)
-<!-- BLOG-POST-LIST:END --> -->
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhushan2000&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan2000&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
 
@@ -42,13 +34,6 @@ I'm a passionate software engineer with a love for developing innovative program
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/yourusername)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername) -->
-
-## 🏆 Achievements
-
-- 🥇 Winner of [Competition Name](https://link-to-competition.com)
-- 🎖️ Top Contributor at [Open Source Project](https://github.com/opensource/project)
-- 🏅 Recognized as [Award/Recognition](https://link-to-award.com)
-
 ---
 
 ### 🎨 Profile Customization
