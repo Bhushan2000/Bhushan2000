@@ -1,6 +1,6 @@
 # Hi there, I'm [Bhushan]! 👋
 
-![Profile Banner](https://github.com/Bhushan2000/Covid19Tracker/assets/157300484/3c5855db-e4be-4a48-93ed-0683f5ea05cd)
+![Profile Banner](https://github.com/Bhushan2000/Covid19Tracker/assets/157300484/799aaa4a-ac2b-4d10-8b3a-614982874bc1)
 
 ## 🚀 About Me
 
