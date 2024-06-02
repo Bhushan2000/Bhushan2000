@@ -1,7 +1,5 @@
 # Hi there, I'm [Bhushan]! 👋
 
-![Profile Banner](https://github.com/Bhushan2000/Covid19Tracker/assets/157300484/799aaa4a-ac2b-4d10-8b3a-614982874bc1)
-
 ## 🚀 About Me
 
 I'm a passionate software engineer with a love for developing innovative programs. I've got a keen interest in open source and a drive to continuously learn and grow in the tech space. Below are some details about my professional journey and interests.
