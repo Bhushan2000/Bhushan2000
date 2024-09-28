@@ -4,7 +4,7 @@
 
 I'm a passionate software engineer with a love for developing innovative programs. I've got a keen interest in open source and a drive to continuously learn and grow in the tech space. Below are some details about my professional journey and interests.
 
-- 💬 Ask me about **Software Development, Open Source, Tech Careers**
+- 💬 Ask me about **Software Development**
 - 📫 How to reach me: **[waghdharebhushan71@gmail.com](mailto:waghdharebhushan71@gmail.com)**
 - 😄 Pronouns: **He/Him** or **They/Them**
 - ⚡ Fun fact: **[Always curious to Learn new things]**
